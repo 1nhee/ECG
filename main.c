@@ -14,3 +14,10 @@ int main(){
 
 	return 0;	
 }
+
+void f2(){
+	int a=10;
+	int b=5;
+	
+	printf("The result is %d \n",a-b);
+}
